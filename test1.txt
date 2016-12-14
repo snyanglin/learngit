@@ -1,3 +1,4 @@
 ﻿this is first test!
 git is free software!
 git is distributed under the GPL.
+Git has a mutable index called stage!
