@@ -1,1 +1,2 @@
 ﻿this is first test!
+git is free software!
