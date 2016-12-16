@@ -5,3 +5,4 @@ Git has a mutable index called stage!
 Git tracks changes.
 you are stupid!
 i am super!
+真的好方便！
