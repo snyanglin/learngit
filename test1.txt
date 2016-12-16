@@ -4,3 +4,4 @@ git is distributed under the GPL.
 Git has a mutable index called stage!
 Git tracks changes.
 you are stupid!
+i am super!
